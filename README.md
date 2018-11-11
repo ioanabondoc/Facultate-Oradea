@@ -1,1 +1,1 @@
-# Facultate-Oradea
+# Oradea-Facultate
