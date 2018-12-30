@@ -1,0 +1,15 @@
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\bin\Debug\Tema3.exe.config
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\bin\Debug\Tema3.exe
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\bin\Debug\Tema3.pdb
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\Tema3.csprojAssemblyReference.cache
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\MainWindow.g.cs
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\App.g.cs
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\Tema3_MarkupCompile.cache
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\Tema3_MarkupCompile.lref
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\MainWindow.baml
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\Tema3.g.resources
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\Tema3.Properties.Resources.resources
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\Tema3.csproj.GenerateResource.cache
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\Tema3.csproj.CoreCompileInputs.cache
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\Tema3.exe
+D:\ORADEA_facultate\CRIPTOGRAFIE\Tema3\Tema3\obj\Debug\Tema3.pdb
